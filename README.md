@@ -8,3 +8,5 @@ To access this web application, you have to visit https://platform.openai.com/ap
 Make an account on https://platform.openai.com before generating an API key, if not made yet. $5 credits will be given for free.
 
 Additionally, I have included the Python Notebook for the code, which was written before I had built the web application and can be run on Google Collab or Jupyter. The HTML version of the Python code has been given as comments in the app.py file. In addition to it, the CSS file for the same has also been given separately.
+
+The project has been deployed at: https://openai-project-by-semal.streamlit.app/
