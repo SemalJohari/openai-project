@@ -1,3 +1,5 @@
+# 3-in-1 GPT
+
 This web application, built fully using Python, has been built as an OpenAI API Project which serves three purposes: as a Conversational Agent, Speech Generator and Image Generator.
 It is basically built using OpenAI module and StreamLit library.
 
